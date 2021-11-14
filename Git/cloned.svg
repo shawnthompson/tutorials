@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="203.54405mm"
+   height="155.78085mm"
+   viewBox="0 0 203.54405 155.78085"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="cloned.svg"
+   inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/git-1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:lockguides="false"
+     inkscape:zoom="0.96102398"
+     inkscape:cx="246.09167"
+     inkscape:cy="229.96304"
+     inkscape:window-width="1916"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g12679-3"
+     inkscape:object-paths="false"
+     inkscape:object-nodes="false"
+     inkscape:snap-others="false"
+     inkscape:snap-nodes="false"
+     inkscape:snap-global="true" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient13209"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop13207" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12025"
+       id="linearGradient12027"
+       x1="73.898872"
+       y1="56.769722"
+       x2="121.01007"
+       y2="56.769722"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.28208977,0.35954348)" />
+    <linearGradient
+       id="linearGradient12025"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop12023" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13209"
+       id="linearGradient13211"
+       x1="61.03334"
+       y1="45.814991"
+       x2="94.598862"
+       y2="45.814991"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.27531398,-1.1012559)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.27541579,-13.079029)">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+       x="76.548988"
+       y="21.119856"
+       id="text20184"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/cloned.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan20182"
+         style="stroke-width:0.264583"
+         x="76.548988"
+         y="21.119856">GitHub</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+       x="55.094326"
+       y="101.50954"
+       id="text20184-0"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/cloned.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan20182-9"
+         style="stroke-width:0.264583"
+         x="55.094326"
+         y="101.50954">Joe's Computer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+       x="19.247099"
+       y="26.360157"
+       id="text27316"><tspan
+         sodipodi:role="line"
+         id="tspan27314"
+         style="stroke-width:0.264583"
+         x="19.247099"
+         y="26.360157" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.5833px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+       x="22.176006"
+       y="26.569365"
+       id="text40508"><tspan
+         sodipodi:role="line"
+         id="tspan40506"
+         style="stroke-width:0.264583"
+         x="22.176006"
+         y="26.569365" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.5833px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+       x="26.778574"
+       y="33.682423"
+       id="text45968"><tspan
+         sodipodi:role="line"
+         id="tspan45966"
+         style="stroke-width:0.264583"
+         x="26.778574"
+         y="33.682423" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="26.98778"
+       y="29.289064"
+       id="text49206"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/cloned.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan49204"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="26.98778"
+         y="29.289064">Org X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="125.73377"
+       y="25.523329"
+       id="text55726"><tspan
+         sodipodi:role="line"
+         id="tspan57466"
+         x="125.73377"
+         y="25.523329" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="138.70464"
+       y="30.962725"
+       id="text60638"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/cloned.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan60636"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="138.70464"
+         y="30.962725">Joe Schmoe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.5833px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+       x="27.553316"
+       y="47.939587"
+       id="text74306"><tspan
+         sodipodi:role="line"
+         id="tspan74304"
+         style="stroke-width:0.264583"
+         x="27.553316"
+         y="47.939587" /></text>
+    <g
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/cloned.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       id="g187294">
+      <ellipse
+         style="opacity:0.602469;fill:#000000;fill-opacity:0;stroke-width:0.285999"
+         id="path846"
+         cx="44.929688"
+         cy="64.546875"
+         rx="27.210938"
+         ry="28.265625" />
+      <ellipse
+         style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.267894"
+         id="path66214"
+         cx="38.80801"
+         cy="62.762276"
+         rx="38.398647"
+         ry="28.252079" />
+      <g
+         id="g80075"
+         transform="matrix(1.814085,0,0,1.8358246,-29.685125,-32.389076)">
+        <ellipse
+           style="opacity:1;fill:#007eff;fill-opacity:1;stroke:#0000ff;stroke-width:0.516689"
+           id="path68672"
+           cx="37.953632"
+           cy="50.543888"
+           rx="19.050097"
+           ry="13.443333" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:2.39477px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.179608"
+         x="41.080906"
+         y="53.343262"
+         id="text157774-4"><tspan
+           sodipodi:role="line"
+           id="tspan157772-2"
+           style="stroke-width:0.179608"
+           x="41.080906"
+           y="53.343262">Other Bug Fix Branch</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.57224px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.117918"
+         x="48.392189"
+         y="48.429436"
+         id="text161972-0"><tspan
+           sodipodi:role="line"
+           id="tspan161970-6"
+           style="stroke-width:0.117918"
+           x="48.392189"
+           y="48.429436">Fix other typo</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.93416px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.445063"
+         x="31.513912"
+         y="38.412994"
+         id="text77786"
+         transform="scale(0.87423202,1.1438611)"><tspan
+           sodipodi:role="line"
+           id="tspan77784"
+           style="stroke-width:0.445063"
+           x="31.513912"
+           y="38.412994">Repo-A</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 8.4274595,57.459951 H 69.462697 v 0 -0.08512"
+         id="path134899" />
+      <circle
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path134998"
+         cx="8.980773"
+         cy="57.502514"
+         r="1.0640731" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+         x="10.400861"
+         y="51.639366"
+         id="text150271"><tspan
+           sodipodi:role="line"
+           id="tspan150269"
+           style="stroke-width:0.264583"
+           x="10.400861"
+           y="51.639366">Main Branch</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.39423px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.104567"
+         x="6.985394"
+         y="55.229851"
+         id="text154499"><tspan
+           sodipodi:role="line"
+           id="tspan154497"
+           style="stroke-width:0.104567"
+           x="6.985394"
+           y="55.229851">Initial commit</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 16.604885,57.569684 5.291667,7.663791 18.338362,0.09124 4.470546,-7.572557"
+         id="path154946" />
+      <circle
+         style="fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path134998-8"
+         cx="31.385057"
+         cy="65.324715"
+         r="1.0640731" />
+      <circle
+         style="fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path134998-8-8"
+         cx="44.721035"
+         cy="57.627541"
+         r="1.0640731" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.39477px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.179608"
+         x="22.737083"
+         y="62.091774"
+         id="text157774"><tspan
+           sodipodi:role="line"
+           id="tspan157772"
+           style="stroke-width:0.179608"
+           x="22.737083"
+           y="62.091774">Bug Fix Branch</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.57224px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.117918"
+         x="28.20031"
+         y="69.093834"
+         id="text161972"><tspan
+           sodipodi:role="line"
+           id="tspan161970"
+           style="stroke-width:0.117918"
+           x="28.20031"
+           y="69.093834">Fix typo</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 38.501436,57.459951 4.561782,-7.280355 h 19.250718 l 3.74066,7.280355"
+         id="path169241" />
+      <circle
+         style="fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path134998-5"
+         cx="52.734192"
+         cy="50.179596"
+         r="1.0640731" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.25821px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.169366"
+         x="26.290653"
+         y="71.985466"
+         id="text170717"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.169366"
+           x="26.290653"
+           y="71.985466"
+           id="tspan173749">Commit A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.25821px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.169366"
+         x="47.657787"
+         y="46.37867"
+         id="text170717-5"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.169366"
+           x="47.657787"
+           y="46.37867"
+           id="tspan173749-9">Commit B</tspan></text>
+      <circle
+         style="fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path134998-8-2"
+         cx="65.952232"
+         cy="57.433945"
+         r="1.0640731" />
+    </g>
+    <g
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/cloned.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       id="g187294-7"
+       transform="translate(116.15949,0.11271526)">
+      <ellipse
+         style="opacity:0.602469;fill:#000000;fill-opacity:0;stroke-width:0.285999"
+         id="path846-1"
+         cx="44.929688"
+         cy="64.546875"
+         rx="27.210938"
+         ry="28.265625" />
+      <ellipse
+         style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.267894"
+         id="path66214-8"
+         cx="38.80801"
+         cy="62.762276"
+         rx="38.398647"
+         ry="28.252079" />
+      <g
+         id="g80075-7"
+         transform="matrix(1.814085,0,0,1.8358246,-29.685125,-32.389076)">
+        <ellipse
+           style="opacity:1;fill:#007eff;fill-opacity:1;stroke:#0000ff;stroke-width:0.516689"
+           id="path68672-8"
+           cx="37.953632"
+           cy="50.543888"
+           rx="19.050097"
+           ry="13.443333" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:2.39477px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.179608"
+         x="41.080906"
+         y="53.343262"
+         id="text157774-4-7"><tspan
+           sodipodi:role="line"
+           id="tspan157772-2-7"
+           style="stroke-width:0.179608"
+           x="41.080906"
+           y="53.343262">Other Bug Fix Branch</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.57224px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.117918"
+         x="48.392189"
+         y="48.429436"
+         id="text161972-0-4"><tspan
+           sodipodi:role="line"
+           id="tspan161970-6-4"
+           style="stroke-width:0.117918"
+           x="48.392189"
+           y="48.429436">Fix other typo</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.93416px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.445063"
+         x="31.513912"
+         y="38.412994"
+         id="text77786-9"
+         transform="scale(0.87423202,1.1438611)"><tspan
+           sodipodi:role="line"
+           id="tspan77784-1"
+           style="stroke-width:0.445063"
+           x="31.513912"
+           y="38.412994">Repo-A</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 8.4274595,57.459951 H 69.462697 v 0 -0.08512"
+         id="path134899-5" />
+      <circle
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path134998-55"
+         cx="8.980773"
+         cy="57.502514"
+         r="1.0640731" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+         x="10.400861"
+         y="51.639366"
+         id="text150271-8"><tspan
+           sodipodi:role="line"
+           id="tspan150269-2"
+           style="stroke-width:0.264583"
+           x="10.400861"
+           y="51.639366">Main Branch</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.39423px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.104567"
+         x="6.985394"
+         y="55.229851"
+         id="text154499-9"><tspan
+           sodipodi:role="line"
+           id="tspan154497-8"
+           style="stroke-width:0.104567"
+           x="6.985394"
+           y="55.229851">Initial commit</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 16.604885,57.569684 5.291667,7.663791 18.338362,0.09124 4.470546,-7.572557"
+         id="path154946-2" />
+      <circle
+         style="fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path134998-8-0"
+         cx="31.385057"
+         cy="65.324715"
+         r="1.0640731" />
+      <circle
+         style="fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path134998-8-8-7"
+         cx="44.721035"
+         cy="57.627541"
+         r="1.0640731" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.39477px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.179608"
+         x="22.737083"
+         y="62.091774"
+         id="text157774-48"><tspan
+           sodipodi:role="line"
+           id="tspan157772-5"
+           style="stroke-width:0.179608"
+           x="22.737083"
+           y="62.091774">Bug Fix Branch</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.57224px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.117918"
+         x="28.20031"
+         y="69.093834"
+         id="text161972-8"><tspan
+           sodipodi:role="line"
+           id="tspan161970-3"
+           style="stroke-width:0.117918"
+           x="28.20031"
+           y="69.093834">Fix typo</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 38.501436,57.459951 4.561782,-7.280355 h 19.250718 l 3.74066,7.280355"
+         id="path169241-0" />
+      <circle
+         style="fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path134998-5-6"
+         cx="52.734192"
+         cy="50.179596"
+         r="1.0640731" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.25821px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.169366"
+         x="26.290653"
+         y="71.985466"
+         id="text170717-2"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.169366"
+           x="26.290653"
+           y="71.985466"
+           id="tspan173749-2">Commit A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.25821px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.169366"
+         x="47.657787"
+         y="46.37867"
+         id="text170717-5-5"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.169366"
+           x="47.657787"
+           y="46.37867"
+           id="tspan173749-9-2">Commit B</tspan></text>
+      <circle
+         style="fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path134998-8-2-2"
+         cx="65.952232"
+         cy="57.433945"
+         r="1.0640731" />
+    </g>
+    <g
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/cloned.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       id="g187294-7-7"
+       transform="translate(60.249959,76.04738)">
+      <ellipse
+         style="opacity:0.602469;fill:#000000;fill-opacity:0;stroke-width:0.285999"
+         id="path846-1-0"
+         cx="44.929688"
+         cy="64.546875"
+         rx="27.210938"
+         ry="28.265625" />
+      <ellipse
+         style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.267894"
+         id="path66214-8-0"
+         cx="38.80801"
+         cy="62.762276"
+         rx="38.398647"
+         ry="28.252079" />
+      <g
+         id="g80075-7-5"
+         transform="matrix(1.814085,0,0,1.8358246,-29.685125,-32.389076)">
+        <ellipse
+           style="opacity:1;fill:#007eff;fill-opacity:1;stroke:#0000ff;stroke-width:0.516689"
+           id="path68672-8-6"
+           cx="37.953632"
+           cy="50.543888"
+           rx="19.050097"
+           ry="13.443333" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:2.39477px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.179608"
+         x="41.080906"
+         y="53.343262"
+         id="text157774-4-7-7"><tspan
+           sodipodi:role="line"
+           id="tspan157772-2-7-8"
+           style="stroke-width:0.179608"
+           x="41.080906"
+           y="53.343262">Other Bug Fix Branch</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.57224px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.117918"
+         x="48.392189"
+         y="48.429436"
+         id="text161972-0-4-0"><tspan
+           sodipodi:role="line"
+           id="tspan161970-6-4-6"
+           style="stroke-width:0.117918"
+           x="48.392189"
+           y="48.429436">Fix other typo</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.93416px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.445063"
+         x="31.513912"
+         y="38.412994"
+         id="text77786-9-5"
+         transform="scale(0.87423202,1.1438611)"><tspan
+           sodipodi:role="line"
+           id="tspan77784-1-7"
+           style="stroke-width:0.445063"
+           x="31.513912"
+           y="38.412994">Repo-A</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 8.4274595,57.459951 H 69.462697 v 0 -0.08512"
+         id="path134899-5-3" />
+      <circle
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path134998-55-4"
+         cx="8.980773"
+         cy="57.502514"
+         r="1.0640731" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+         x="10.400861"
+         y="51.639366"
+         id="text150271-8-3"><tspan
+           sodipodi:role="line"
+           id="tspan150269-2-0"
+           style="stroke-width:0.264583"
+           x="10.400861"
+           y="51.639366">Main Branch</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.39423px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.104567"
+         x="6.985394"
+         y="55.229851"
+         id="text154499-9-4"><tspan
+           sodipodi:role="line"
+           id="tspan154497-8-8"
+           style="stroke-width:0.104567"
+           x="6.985394"
+           y="55.229851">Initial commit</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 16.604885,57.569684 5.291667,7.663791 18.338362,0.09124 4.470546,-7.572557"
+         id="path154946-2-7" />
+      <circle
+         style="fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path134998-8-0-5"
+         cx="31.385057"
+         cy="65.324715"
+         r="1.0640731" />
+      <circle
+         style="fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path134998-8-8-7-9"
+         cx="44.721035"
+         cy="57.627541"
+         r="1.0640731" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.39477px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.179608"
+         x="22.737083"
+         y="62.091774"
+         id="text157774-48-5"><tspan
+           sodipodi:role="line"
+           id="tspan157772-5-3"
+           style="stroke-width:0.179608"
+           x="22.737083"
+           y="62.091774">Bug Fix Branch</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.57224px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.117918"
+         x="28.20031"
+         y="69.093834"
+         id="text161972-8-2"><tspan
+           sodipodi:role="line"
+           id="tspan161970-3-7"
+           style="stroke-width:0.117918"
+           x="28.20031"
+           y="69.093834">Fix typo</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 38.501436,57.459951 4.561782,-7.280355 h 19.250718 l 3.74066,7.280355"
+         id="path169241-0-3" />
+      <circle
+         style="fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path134998-5-6-9"
+         cx="52.734192"
+         cy="50.179596"
+         r="1.0640731" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.25821px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.169366"
+         x="26.290653"
+         y="71.985466"
+         id="text170717-2-7"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.169366"
+           x="26.290653"
+           y="71.985466"
+           id="tspan173749-2-7">Commit A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.25821px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.169366"
+         x="47.657787"
+         y="46.37867"
+         id="text170717-5-5-9"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.169366"
+           x="47.657787"
+           y="46.37867"
+           id="tspan173749-9-2-5">Commit B</tspan></text>
+      <circle
+         style="fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path134998-8-2-2-3"
+         cx="65.952232"
+         cy="57.433945"
+         r="1.0640731" />
+    </g>
+    <g
+       id="g12679"
+       transform="translate(1.3105729,-1.456098)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="77.563385"
+         y="50.965672"
+         id="text5673"
+         inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/forked.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan5671"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="77.563385"
+           y="50.965672">1.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81042px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="77.88192"
+         y="55.584435"
+         id="text10905"
+         inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/forked.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan10903"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81042px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="77.88192"
+           y="55.584435">fork Org-X:Repo-A</tspan></text>
+    </g>
+    <path
+       style="fill:url(#linearGradient12027);fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 74.182315,58.01446 46.824705,-0.477803 -2.86681,-3.344625 -0.15927,5.892906 2.70755,-2.70755"
+       id="path3799"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/forked.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g12679-3"
+       transform="translate(67.936555,59.663605)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="77.563385"
+         y="50.965672"
+         id="text5673-2"
+         inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/forked.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan13070"
+           x="77.563385"
+           y="50.965672">2.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81042px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="77.88192"
+         y="55.584435"
+         id="text10905-6"
+         inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/forked.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan13090"
+           x="77.88192"
+           y="55.584435">$git clone joe-schmoe/Repo-A</tspan></text>
+      <path
+         style="fill:url(#linearGradient13211);fill-opacity:1;stroke:#000000;stroke-width:0.267567px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 94.77291,25.273241 61.740327,63.531352 61.462741,57.108456 66.181683,64.089864 62.01791,63.810607"
+         id="path13125" />
+    </g>
+  </g>
+</svg>

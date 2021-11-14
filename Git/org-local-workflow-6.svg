@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="165.58662mm"
+   height="170.17407mm"
+   viewBox="0 0 165.58663 170.17407"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="org-local-workflow-6.svg"
+   inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/git-1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:lockguides="false"
+     inkscape:zoom="0.663126"
+     inkscape:cx="177.19106"
+     inkscape:cy="301.60181"
+     inkscape:window-width="1916"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:object-paths="false"
+     inkscape:object-nodes="false"
+     inkscape:snap-others="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="true" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient19515"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop19513" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.18338,-84.770166)">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.69554px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.242389"
+       x="65.596581"
+       y="103.84163"
+       id="text20184-0"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan20182-9"
+         style="stroke-width:0.242389"
+         x="65.596581"
+         y="103.84163">Jane's Computer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+       x="19.247099"
+       y="26.360157"
+       id="text27316"><tspan
+         sodipodi:role="line"
+         id="tspan27314"
+         style="stroke-width:0.264583"
+         x="19.247099"
+         y="26.360157" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.5833px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+       x="22.176006"
+       y="26.569365"
+       id="text40508"><tspan
+         sodipodi:role="line"
+         id="tspan40506"
+         style="stroke-width:0.264583"
+         x="22.176006"
+         y="26.569365" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.5833px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+       x="26.778574"
+       y="33.682423"
+       id="text45968"><tspan
+         sodipodi:role="line"
+         id="tspan45966"
+         style="stroke-width:0.264583"
+         x="26.778574"
+         y="33.682423" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="125.73377"
+       y="25.523329"
+       id="text55726"><tspan
+         sodipodi:role="line"
+         id="tspan57466"
+         x="125.73377"
+         y="25.523329" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.5833px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+       x="27.553316"
+       y="47.939587"
+       id="text74306"><tspan
+         sodipodi:role="line"
+         id="tspan74304"
+         style="stroke-width:0.264583"
+         x="27.553316"
+         y="47.939587" /></text>
+    <ellipse
+       style="opacity:0.602469;fill:#000000;fill-opacity:0;stroke-width:0.262008"
+       id="path846-1-0"
+       cx="116.4758"
+       cy="159.36798"
+       rx="24.928394"
+       ry="25.894611"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#00ffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.245422"
+       id="path66214-8-0"
+       cx="110.86764"
+       cy="157.73308"
+       rx="35.177643"
+       ry="25.8822"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g80075-7-5"
+       transform="matrix(1.6619135,0,0,1.6818296,48.119924,70.563338)"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="opacity:1;fill:#007eff;fill-opacity:1;stroke:#0000ff;stroke-width:0.516689"
+         id="path68672-8-6"
+         cx="37.953632"
+         cy="50.543888"
+         rx="19.050097"
+         ry="13.443333" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:5.43638px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.40773"
+       x="115.02028"
+       y="122.81988"
+       id="text77786-9-5"
+       transform="scale(0.87423202,1.1438611)"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan77784-1-7"
+         style="stroke-width:0.40773"
+         x="115.02028"
+         y="122.81988">Repo-A</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.425994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 83.035498,152.87553 H 138.9509 v 0 -0.078"
+       id="path134899-5-3"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.517605;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path134998-55-4"
+       cx="85.722229"
+       cy="152.91452"
+       r="0.97481513"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.23185px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.242389"
+       x="84.843369"
+       y="147.54318"
+       id="text150271-8-3"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan150269-2-0"
+         style="stroke-width:0.242389"
+         x="84.843369"
+         y="147.54318">Main Branch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.27728px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.0957956"
+       x="81.714401"
+       y="150.83249"
+       id="text154499-9-4"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan154497-8-8"
+         style="stroke-width:0.0957956"
+         x="81.714401"
+         y="150.83249">some commit</tspan></text>
+    <ellipse
+       style="opacity:0.602469;fill:#000000;fill-opacity:0;stroke-width:0.262008"
+       id="path846-1-0-5"
+       cx="82.091888"
+       cy="218.69254"
+       rx="24.928394"
+       ry="25.894611"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#00ffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.245422"
+       id="path66214-8-0-2"
+       cx="76.483734"
+       cy="217.05763"
+       rx="35.177643"
+       ry="25.8822"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g80075-7-5-6"
+       transform="matrix(1.6619135,0,0,1.6818296,13.73602,129.88787)"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="opacity:1;fill:#007eff;fill-opacity:1;stroke:#0000ff;stroke-width:0.516689"
+         id="path68672-8-6-9"
+         cx="37.953632"
+         cy="50.543888"
+         rx="19.050097"
+         ry="13.443333" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:5.43638px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.40773"
+       x="75.689865"
+       y="173.01582"
+       id="text77786-9-5-5"
+       transform="scale(0.87423202,1.1438611)"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan77784-1-7-0"
+         style="stroke-width:0.40773"
+         x="75.689865"
+         y="173.01582">Working</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.40773"
+         x="75.689865"
+         y="177.63675"
+         id="tspan76167">Directory</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.425994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 48.651594,212.20006 h 55.915396 v 0 -0.078"
+       id="path134899-5-3-3"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cccc" />
+    <circle
+       style="fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.517605;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path134998-55-4-0"
+       cx="54.063107"
+       cy="212.10367"
+       r="0.97481513"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.23185px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.242389"
+       x="50.459461"
+       y="206.86774"
+       id="text150271-8-3-2"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan150269-2-0-8"
+         style="stroke-width:0.242389"
+         x="50.459461"
+         y="206.86774">Main Branch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.27728px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.0957956"
+       x="47.330494"
+       y="210.15704"
+       id="text154499-9-4-3"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan154497-8-8-1"
+         style="stroke-width:0.0957956"
+         x="47.330494"
+         y="210.15704">some commit</tspan></text>
+    <path
+       style="opacity:1;fill:#feffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.504135;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 47.887889,84.885263 32.604762,63.527337 1.358529,-5.67208 -5.162419,5.67208 3.820486,-0.0519"
+       id="path36312"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49078px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0872696"
+       x="69.737328"
+       y="127.81045"
+       id="text37790"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan39562"
+         x="69.737328"
+         y="127.81045"
+         style="stroke-width:0.0872696">$git pull origin main</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.69554px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242389"
+       x="86.463402"
+       y="117.47793"
+       id="text54725"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan54723"
+         style="stroke-width:0.242389"
+         x="86.463402"
+         y="117.47793">Workflow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.55505px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242389"
+       x="70.113647"
+       y="124.01463"
+       id="text58263"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan58261"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.55505px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242389"
+         x="70.113647"
+         y="124.01463">1.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.55505px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242389"
+       x="42.226357"
+       y="184.17841"
+       id="text58263-9"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan88706"
+         x="42.226357"
+         y="184.17841"
+         style="stroke-width:0.242389">2.</tspan></text>
+    <path
+       style="opacity:1;fill:#fdffff;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.458057;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 54.300683,213.3364 4.523143,10.69105 37.966986,0.13707"
+       id="path78075"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.67001px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09175"
+       x="68.007271"
+       y="196.53076"
+       id="text79751"
+       transform="scale(0.88803889,1.1260768)"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan79749"
+         style="stroke-width:0.09175"
+         x="68.007271"
+         y="196.53076">myNewFeature branch</tspan></text>
+    <path
+       style="opacity:1;fill:#fdffff;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.458057;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 79.846157,159.80112 c -7.392279,16.32443 -34.421688,26.69898 -26.510397,40.4728 l -2.540395,-0.6648 3.42824,-2.40761 -0.750782,2.93534"
+       id="path80130"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49079px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242389"
+       x="41.857819"
+       y="188.35492"
+       id="text81949"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan81947"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49079px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242389"
+         x="41.857819"
+         y="188.35492">$git checkout -b myNewFeature</tspan></text>
+    <rect
+       style="opacity:1;fill:#ea58e7;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.458057;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect88917"
+       width="2.1156635"
+       height="2.0427096"
+       x="74.473534"
+       y="223.17192"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#00ffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.245422"
+       id="path66214-8-0-2-8"
+       cx="170.72238"
+       cy="193.93103"
+       rx="35.177643"
+       ry="25.8822"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g80075-7-5-6-7"
+       transform="matrix(1.6619135,0,0,1.6818296,107.97468,106.76128)"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="opacity:1;fill:#007eff;fill-opacity:1;stroke:#0000ff;stroke-width:0.516689"
+         id="path68672-8-6-9-3"
+         cx="37.953632"
+         cy="50.543888"
+         rx="19.050097"
+         ry="13.443333" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:5.43638px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.40773"
+       x="185.41223"
+       y="153.11331"
+       id="text77786-9-5-5-7"
+       transform="scale(0.87423202,1.1438611)"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.40773"
+         x="185.41223"
+         y="153.11331"
+         id="tspan76167-8">Staging</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.40773"
+         x="185.41223"
+         y="157.73424"
+         id="tspan98205">Area</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.425994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 142.89026,189.07346 h 55.91539 v 0 -0.078"
+       id="path134899-5-3-3-7"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cccc" />
+    <circle
+       style="fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.517605;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path134998-55-4-0-5"
+       cx="148.30177"
+       cy="188.97708"
+       r="0.97481513"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.23185px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.242389"
+       x="144.69812"
+       y="183.74115"
+       id="text150271-8-3-2-3"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan150269-2-0-8-2"
+         style="stroke-width:0.242389"
+         x="144.69812"
+         y="183.74115">Main Branch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.27728px;line-height:0.85;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.0957956"
+       x="141.56915"
+       y="187.03046"
+       id="text154499-9-4-3-7"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan154497-8-8-1-6"
+         style="stroke-width:0.0957956"
+         x="141.56915"
+         y="187.03046">some commit</tspan></text>
+    <path
+       style="fill:#fdffff;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.458057;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 148.53934,190.2098 4.52315,10.69106 37.96698,0.13707"
+       id="path78075-2"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#fdffff;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.458057;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 85.845559,154.02813 4.523143,10.69106 37.966988,0.13707"
+       id="path78075-2-1"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.67001px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09175"
+       x="174.12724"
+       y="175.99344"
+       id="text79751-2"
+       transform="scale(0.88803889,1.1260768)"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan79749-2"
+         style="stroke-width:0.09175"
+         x="174.12724"
+         y="175.99344">myNewFeature branch</tspan></text>
+    <rect
+       style="fill:#ea58e7;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.458057;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect88917-8"
+       width="2.1156635"
+       height="2.0427096"
+       x="168.7122"
+       y="200.04533"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#4d58e7;fill-opacity:0.00221731;fill-rule:nonzero;stroke:#000000;stroke-width:0.286266;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.997783;paint-order:markers fill stroke"
+       d="m 74.065107,224.17815 c -23.950632,31.48759 29.630933,26.56219 2.878168,0 l 1.204968,3.56433 2.191287,-2.85149 -3.222688,-0.83583"
+       id="path90558"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.50872px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.087718"
+       x="63.705769"
+       y="249.83363"
+       id="text93181"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.087718"
+         x="63.705769"
+         y="249.83363"
+         id="tspan93183">edit files and</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.087718"
+         x="63.705769"
+         y="254.21953"
+         id="tspan93187">save changes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.55505px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242389"
+       x="63.655762"
+       y="245.72076"
+       id="text58263-9-7"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan94084"
+         x="63.655762"
+         y="245.72076"
+         style="stroke-width:0.242389">3.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.55505px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242389"
+       x="120.7798"
+       y="217.4782"
+       id="text58263-9-7-1"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan99366"
+         x="120.7798"
+         y="217.4782"
+         style="stroke-width:0.242389">4.</tspan></text>
+    <path
+       style="opacity:1;fill:#4d58e7;fill-opacity:0.00221731;fill-rule:nonzero;stroke:#000000;stroke-width:0.458058;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.997783;paint-order:markers fill stroke"
+       d="m 108.28859,215.70466 c 14.81288,0.58311 25.92082,-4.68369 34.64535,-13.71379 l -2.76682,-0.48118 2.76682,3.12771 -0.24059,-2.52622"
+       id="path98518"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49079px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242389"
+       x="119.95734"
+       y="221.3586"
+       id="text101966"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan101964"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49079px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242389"
+         x="119.95734"
+         y="221.3586">$git add filename.ext</tspan></text>
+    <path
+       style="opacity:1;fill:#4d58e7;fill-opacity:0.00221731;fill-rule:nonzero;stroke:#000000;stroke-width:0.458057;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.997783;paint-order:markers fill stroke"
+       d="m 169.35813,168.89852 c 0.56587,-9.19969 -6.26218,-14.70244 -26.23585,-13.63236 l 2.31494,-2.31492 0.51442,5.14428 -2.82936,-2.82936"
+       id="path107713"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.55505px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242389"
+       x="165.41757"
+       y="154.24359"
+       id="text58263-9-7-1-5"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan113358"
+         x="165.41757"
+         y="154.24359"
+         style="stroke-width:0.242389">5.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49079px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242389"
+       x="165.24271"
+       y="158.09554"
+       id="text110887"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan110885"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49079px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242389"
+         x="165.24271"
+         y="158.09554">$git commit</tspan></text>
+    <circle
+       style="fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0.517605;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path134998-55-4-9"
+       cx="108.9705"
+       cy="164.77461"
+       r="0.97481513"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.67001px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09175"
+       x="102.62095"
+       y="143.44934"
+       id="text79751-2-2"
+       transform="scale(0.88803889,1.1260768)"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan79749-2-9"
+         style="stroke-width:0.09175"
+         x="102.62095"
+         y="143.44934">myNewFeature branch</tspan></text>
+    <path
+       style="opacity:1;fill:#4d58e7;fill-opacity:0.00221731;fill-rule:nonzero;stroke:#000000;stroke-width:0.458057;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.997783;paint-order:markers fill stroke"
+       d="m 138.69889,143.8172 28.14543,-54.828774 -6.21392,1.462101 7.67602,3.655251 -1.82763,-4.751827"
+       id="path115894"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.55505px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242389"
+       x="148.30907"
+       y="130.0961"
+       id="text58263-9-7-1-5-5"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan116021"
+         x="148.30907"
+         y="130.0961"
+         style="stroke-width:0.242389">6.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49079px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242389"
+       x="146.37491"
+       y="134.67908"
+       id="text118543"
+       inkscape:export-filename="/Users/andrewnordlund/dev/Tutorials/Git/local-workflow-6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan118541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49079px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242389"
+         x="146.37491"
+         y="134.67908">$git push origin myNewFeature</tspan></text>
+  </g>
+</svg>

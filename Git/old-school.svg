@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="73.788mm" height="63.519mm" version="1.1" viewBox="0 0 73.788 63.519" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <symbol id="CircleBalloon" stroke-miterlimit="10">
+   <title>Circle Balloon</title>
+   <ellipse cx="54.24" cy="33.073" rx="33.073" ry="18.521"/>
+   <path d="m29.104 43.921c2.9104 5.5562-2.6458 7.9375-5.8208 11.377 8.4667-0.79375 15.61-1.8521 18.521-6.8792"/>
+   <ellipse cx="52.917" cy="31.75" rx="33.073" ry="18.521" fill="#eee" stroke-width=".92604"/>
+   <path d="m28.046 42.862c2.9104 5.5562-2.6458 7.9375-5.8208 11.377 8.4667-0.79375 15.61-1.8521 18.521-6.8792" fill="#eee" stroke-width=".92604"/>
+   <ellipse cx="52.123" cy="30.956" rx="30.956" ry="16.669" fill="#fff"/>
+   <path d="m27.252 39.423c3.7042 6.6146 2.3812 8.9958-1.5875 12.435 7.9375-0.79375 13.229-2.6458 15.346-8.2021" fill="#fff"/>
+  </symbol>
+ </defs>
+ <g transform="translate(-20.833 -6.9532)">
+  <text x="55.897823" y="14.810687" font-family="sans-serif" font-size="1.1711px" font-weight="bold" stroke-width=".062738" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0.85" xml:space="preserve"><tspan x="55.897823" y="14.810687" font-family="sans-serif" font-size="1.1711px" font-weight="bold" stroke-width=".062738" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Org X</tspan></text>
+  <ellipse cx="58.701" cy="22.748" rx="9.1051" ry="6.6991" fill="#0ff" stroke="#00f" stroke-width=".063523"/>
+  <g transform="matrix(.23712 0 0 .23712 49.498 7.8657)">
+   <ellipse cx="37.954" cy="50.544" rx="19.05" ry="13.443" fill="#007eff" stroke="#00f" stroke-width=".51669"/>
+   <text transform="scale(.87423 1.1439)" x="31.149551" y="39.805363" font-family="sans-serif" font-size="5.9342px" stroke-width=".44506" style="line-height:0.85" xml:space="preserve"><tspan x="31.149551" y="39.805363" stroke-width=".44506">Repo-A</tspan></text>
+  </g>
+  <text x="40.225849" y="33.259972" font-family="sans-serif" font-size="1.1711px" font-weight="bold" stroke-width=".062738" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0.85" xml:space="preserve"><tspan x="40.225849" y="33.259972" stroke-width=".062738">Joe</tspan></text>
+  <ellipse cx="43.029" cy="41.197" rx="9.1051" ry="6.6991" fill="#0ff" stroke="#00f" stroke-width=".063523"/>
+  <g transform="matrix(.23712 0 0 .23712 33.827 26.315)">
+   <ellipse cx="37.954" cy="50.544" rx="19.05" ry="13.443" fill="#007eff" stroke="#00f" stroke-width=".51669"/>
+   <text transform="scale(.87423 1.1439)" x="31.149551" y="39.805363" font-family="sans-serif" font-size="5.9342px" stroke-width=".44506" style="line-height:0.85" xml:space="preserve"><tspan x="31.149551" y="39.805363" stroke-width=".44506">Repo-A</tspan></text>
+  </g>
+  <text x="69.784386" y="33.755924" font-family="sans-serif" font-size="1.1711px" font-weight="bold" stroke-width=".062738" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0.85" xml:space="preserve"><tspan x="69.784386" y="33.755924" stroke-width=".062738">Jane</tspan></text>
+  <ellipse cx="72.587" cy="41.693" rx="9.1051" ry="6.6991" fill="#0ff" stroke="#00f" stroke-width=".063523"/>
+  <g transform="matrix(.23712 0 0 .23712 63.385 26.811)">
+   <ellipse cx="37.954" cy="50.544" rx="19.05" ry="13.443" fill="#007eff" stroke="#00f" stroke-width=".51669"/>
+   <text transform="scale(.87423 1.1439)" x="31.149551" y="39.805363" font-family="sans-serif" font-size="5.9342px" stroke-width=".44506" style="line-height:0.85" xml:space="preserve"><tspan x="31.149551" y="39.805363" stroke-width=".44506">Repo-A</tspan></text>
+  </g>
+  <text x="55.203495" y="55.081707" font-family="sans-serif" font-size="1.1711px" font-weight="bold" stroke-width=".062738" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0.85" xml:space="preserve"><tspan x="55.203495" y="55.081707" stroke-width=".062738">Alex</tspan></text>
+  <ellipse cx="58.006" cy="63.019" rx="9.1051" ry="6.6991" fill="#0ff" stroke="#00f" stroke-width=".063523"/>
+  <g transform="matrix(.23712 0 0 .23712 48.804 48.137)">
+   <ellipse cx="37.954" cy="50.544" rx="19.05" ry="13.443" fill="#007eff" stroke="#00f" stroke-width=".51669"/>
+   <text transform="scale(.87423 1.1439)" x="31.149551" y="39.805363" font-family="sans-serif" font-size="5.9342px" stroke-width=".44506" style="line-height:0.85" xml:space="preserve"><tspan x="31.149551" y="39.805363" stroke-width=".44506">Repo-A</tspan></text>
+  </g>
+  <text x="41.342434" y="10.104936" font-family="sans-serif" font-size="2.0076px" font-weight="bold" stroke-width=".062738" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0.85" xml:space="preserve"><tspan x="41.342434" y="10.104936" font-family="sans-serif" font-size="2.0076px" font-weight="bold" stroke-width=".062738" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Old-School Versioning Systems</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".062738px">
+   <path d="m55.824 22.305-10.514 13.192 1.6862-0.49595-1.8846-0.89271 0.09919 1.2895-0.09919 0.09919"/>
+   <path d="m61.478 22.305 9.3238 13.391-1.6862-0.59514 1.8846-0.69433-0.19838 1.3887"/>
+   <path d="m58.601 23.198-0.39676 33.725-0.89271-1.1903h1.587l-0.59514 1.3887"/>
+  </g>
+  <g transform="matrix(.23712 0 0 .23712 32.812 7.7244)">
+   <use transform="translate(108.96 -.98555)" width="100%" height="100%" fill="#000000" stroke="#000000" xlink:href="#CircleBalloon"/>
+   <text transform="scale(.80481 1.2425)" x="170.35733" y="27.203587" font-family="sans-serif" font-size="8.8872px" stroke-width=".41659" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0.85" xml:space="preserve"><tspan x="170.35733" y="27.203587" stroke-width=".41659">I'm the main!</tspan></text>
+  </g>
+  <use transform="matrix(.23712 0 0 .23712 72.634 26.833)" width="100%" height="100%" fill="#000000" stroke="#000000" xlink:href="#CircleBalloon"/>
+  <text transform="scale(.92648 1.0793)" x="85.747314" y="32.304382" font-family="sans-serif" font-size="2.3051px" stroke-width=".17289" style="line-height:0.85" xml:space="preserve"><tspan x="85.747314" y="32.304382" stroke-width=".17289">I'm a copy!</tspan></text>
+  <g transform="matrix(.23712 0 0 .23712 20.017 24.289)">
+   <use transform="translate(163.76 98.154)" width="100%" height="100%" fill="#000000" stroke="#000000" xlink:href="#CircleBalloon"/>
+   <text transform="scale(.92648 1.0793)" x="207.7469" y="122.33274" font-family="sans-serif" font-size="9.7214px" stroke-width=".72911" style="line-height:0.85" xml:space="preserve"><tspan x="207.7469" y="122.33274" stroke-width=".72911">I'm a copy!</tspan></text>
+  </g>
+  <g transform="matrix(.23712 0 0 .23712 32.812 7.8236)">
+   <use transform="matrix(-1 0 0 1 42.889 71.8)" width="100%" height="100%" fill="#000000" stroke="#000000" xlink:href="#CircleBalloon"/>
+   <text transform="scale(.79723 1.2544)" x="-45.072613" y="85.628273" font-family="sans-serif" font-size="11.488px" stroke-width=".86164" style="line-height:0.85" xml:space="preserve"><tspan x="-45.072613" y="85.628273" stroke-width=".86164">I'm a copy!</tspan></text>
+  </g>
+  <text x="55.897823" y="14.810687" font-family="sans-serif" font-size="1.1711px" font-weight="bold" stroke-width=".062738" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0.85" xml:space="preserve"><tspan x="55.897823" y="14.810687" font-family="sans-serif" font-size="1.1711px" font-weight="bold" stroke-width=".062738" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Org X</tspan></text>
+  <ellipse cx="58.701" cy="22.748" rx="9.1051" ry="6.6991" fill="#0ff" stroke="#00f" stroke-width=".063523"/>
+  <g transform="matrix(.23712 0 0 .23712 49.498 7.8657)">
+   <ellipse cx="37.954" cy="50.544" rx="19.05" ry="13.443" fill="#007eff" stroke="#00f" stroke-width=".51669"/>
+   <text transform="scale(.87423 1.1439)" x="31.149551" y="39.805363" font-family="sans-serif" font-size="5.9342px" stroke-width=".44506" style="line-height:0.85" xml:space="preserve"><tspan x="31.149551" y="39.805363" stroke-width=".44506">Repo-A</tspan></text>
+  </g>
+  <text x="40.225849" y="33.259972" font-family="sans-serif" font-size="1.1711px" font-weight="bold" stroke-width=".062738" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0.85" xml:space="preserve"><tspan x="40.225849" y="33.259972" stroke-width=".062738">Joe</tspan></text>
+  <ellipse cx="43.029" cy="41.197" rx="9.1051" ry="6.6991" fill="#0ff" stroke="#00f" stroke-width=".063523"/>
+  <g transform="matrix(.23712 0 0 .23712 33.827 26.315)">
+   <ellipse cx="37.954" cy="50.544" rx="19.05" ry="13.443" fill="#007eff" stroke="#00f" stroke-width=".51669"/>
+   <text transform="scale(.87423 1.1439)" x="31.149551" y="39.805363" font-family="sans-serif" font-size="5.9342px" stroke-width=".44506" style="line-height:0.85" xml:space="preserve"><tspan x="31.149551" y="39.805363" stroke-width=".44506">Repo-A</tspan></text>
+  </g>
+  <text x="69.784386" y="33.755924" font-family="sans-serif" font-size="1.1711px" font-weight="bold" stroke-width=".062738" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0.85" xml:space="preserve"><tspan x="69.784386" y="33.755924" stroke-width=".062738">Jane</tspan></text>
+  <ellipse cx="72.587" cy="41.693" rx="9.1051" ry="6.6991" fill="#0ff" stroke="#00f" stroke-width=".063523"/>
+  <g transform="matrix(.23712 0 0 .23712 63.385 26.811)">
+   <ellipse cx="37.954" cy="50.544" rx="19.05" ry="13.443" fill="#007eff" stroke="#00f" stroke-width=".51669"/>
+   <text transform="scale(.87423 1.1439)" x="31.149551" y="39.805363" font-family="sans-serif" font-size="5.9342px" stroke-width=".44506" style="line-height:0.85" xml:space="preserve"><tspan x="31.149551" y="39.805363" stroke-width=".44506">Repo-A</tspan></text>
+  </g>
+  <text x="55.203495" y="55.081707" font-family="sans-serif" font-size="1.1711px" font-weight="bold" stroke-width=".062738" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0.85" xml:space="preserve"><tspan x="55.203495" y="55.081707" stroke-width=".062738">Alex</tspan></text>
+  <ellipse cx="58.006" cy="63.019" rx="9.1051" ry="6.6991" fill="#0ff" stroke="#00f" stroke-width=".063523"/>
+  <g transform="matrix(.23712 0 0 .23712 48.804 48.137)">
+   <ellipse cx="37.954" cy="50.544" rx="19.05" ry="13.443" fill="#007eff" stroke="#00f" stroke-width=".51669"/>
+   <text transform="scale(.87423 1.1439)" x="31.149551" y="39.805363" font-family="sans-serif" font-size="5.9342px" stroke-width=".44506" style="line-height:0.85" xml:space="preserve"><tspan x="31.149551" y="39.805363" stroke-width=".44506">Repo-A</tspan></text>
+  </g>
+  <text x="41.342434" y="10.104936" font-family="sans-serif" font-size="2.0076px" font-weight="bold" stroke-width=".062738" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0.85" xml:space="preserve"><tspan x="41.342434" y="10.104936" font-family="sans-serif" font-size="2.0076px" font-weight="bold" stroke-width=".062738" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Old-School Versioning Systems</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".062738px">
+   <path d="m55.824 22.305-10.514 13.192 1.6862-0.49595-1.8846-0.89271 0.09919 1.2895-0.09919 0.09919"/>
+   <path d="m61.478 22.305 9.3238 13.391-1.6862-0.59514 1.8846-0.69433-0.19838 1.3887"/>
+   <path d="m58.601 23.198-0.39676 33.725-0.89271-1.1903h1.587l-0.59514 1.3887"/>
+  </g>
+  <g transform="matrix(.23712 0 0 .23712 32.812 7.7244)">
+   <use transform="translate(108.96 -.98555)" width="100%" height="100%" fill="#000000" stroke="#000000" xlink:href="#CircleBalloon"/>
+   <text transform="scale(.80481 1.2425)" x="170.35733" y="27.203587" font-family="sans-serif" font-size="8.8872px" stroke-width=".41659" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0.85" xml:space="preserve"><tspan x="170.35733" y="27.203587" stroke-width=".41659">I'm the main!</tspan></text>
+  </g>
+  <use transform="matrix(.23712 0 0 .23712 72.634 26.833)" width="100%" height="100%" fill="#000000" stroke="#000000" xlink:href="#CircleBalloon"/>
+  <text transform="scale(.92648 1.0793)" x="85.747314" y="32.304382" font-family="sans-serif" font-size="2.3051px" stroke-width=".17289" style="line-height:0.85" xml:space="preserve"><tspan x="85.747314" y="32.304382" stroke-width=".17289">I'm a copy!</tspan></text>
+  <g transform="matrix(.23712 0 0 .23712 20.017 24.289)">
+   <use transform="translate(163.76 98.154)" width="100%" height="100%" fill="#000000" stroke="#000000" xlink:href="#CircleBalloon"/>
+   <text transform="scale(.92648 1.0793)" x="207.7469" y="122.33274" font-family="sans-serif" font-size="9.7214px" stroke-width=".72911" style="line-height:0.85" xml:space="preserve"><tspan x="207.7469" y="122.33274" stroke-width=".72911">I'm a copy!</tspan></text>
+  </g>
+  <g transform="matrix(.23712 0 0 .23712 32.812 7.8236)">
+   <use transform="matrix(-1 0 0 1 42.889 71.8)" width="100%" height="100%" fill="#000000" stroke="#000000" xlink:href="#CircleBalloon"/>
+   <text transform="scale(.79723 1.2544)" x="-45.072613" y="85.628273" font-family="sans-serif" font-size="11.488px" stroke-width=".86164" style="line-height:0.85" xml:space="preserve"><tspan x="-45.072613" y="85.628273" stroke-width=".86164">I'm a copy!</tspan></text>
+  </g>
+ </g>
+</svg>
