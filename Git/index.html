@@ -378,37 +378,38 @@
 							<a href="local-workflow-8.svg" target="_blank" title="Click to open in a new window"><img src="local-workflow-8.svg" alt="Joe Schmoe's local repo with two remotes: origin on Joe's account on GitHub, and upstream, the original repo.  He'll pull from upstream, and push to origin."></a>
 						</div>
 					</section>
-					<section>
-						<h1>Useful git Commands</h1>
-						<dl>
-							<dt><code>git branch [branch_name]</code></dt>
-							<dd>Creates a branch called "branch_name" in your local working directory of your local repo.
-							<br>
-							Example: <code>$ git branch myNewFeature</code></dd>
-							<dt><code>git checkout [branch_name]</code></dt>
-							<dd>Sets your current working directory to be in the branch called "branch_name".
-							<br>
-							Example (continuing from above): <code>$ git checkout myNewFeature</code> puts you into the <code>myNewFeature</code> branch.  Now all changes you make won't affect any other branch in your repo until you merge the changes into them.</dd>
-							<dt><code>git pull [remote_name] [branch_name]</code></dt>
-							<dd>Fetches the branch called "branch_name" from the remote called ["remote_name"] into your local repo, and merges the changes into your Working Directory into whatever branch you have checked out at the moment.<br>
-							Example (continuing from above): <code>$ git pull origin main</code> pulls the <code>main</code> branch of the <code>origin</code> remote into your <code>myNewFeature</code> branch.</dd>
-							<dt><code>git add .</code></dt>
-							<dd>Get's all your changes ready for commiting by adding them from your Working Directory into your Staging Area.</dd>
-							<dt><code>git commit -m "Commit notes go here"</code></dt>
-							<dd>Makes a snapshop in time; commits your changes to your local copy of the repo.  It's ready to be pushed.  Note:  You can add the <code>-a</code> option to skip the previous step if there are no <em>new</em> files added.<br>
-							Example: <code>$ git commit -a -m "Fixed a type identified in Issue #34"</code><dd>
-							<dt><code>git push [remote_name] [branch_name]</code></dt>
-							<dd>Copies your latest commits to the branch called "branch_name" on the remote called "remote_name".  If <code>[branch_name]</code> doesn't exist on <code>[remote_name]</code>, then one will be created.<br>
-							Example (continuing from above): <code>$ git push origin myNewFeature</code> copies your changes in your <code>myNewFeature</code> branch to your repo on GitHub.</dd>
-						</dl>
-					<section>
-						<h1>In Conclusion</h1>
-						<ul>
-							<li>Git is a powerful system to allow multiple people to contribute to the same project, whether they'are part of the project group or not.</p>
-							<li>Git is daunting and overwhelming at first.  But once you learn it, you'll wonder how you ever lived without it.</li>
-							<li>If you get into trouble, check out <a href="https://ohshitgit.com/" target="_blank" rel="noreferrer noopener">Oh Shit, Git!?!</a>.</li>
-						</ul>
-					</section>
+				</section>
+				<section>
+					<h1>Useful git Commands</h1>
+					<dl>
+						<dt><code>git branch [branch_name]</code></dt>
+						<dd>Creates a branch called "branch_name" in your local working directory of your local repo.
+						<br>
+						Example: <code>$ git branch myNewFeature</code></dd>
+						<dt><code>git checkout [branch_name]</code></dt>
+						<dd>Sets your current working directory to be in the branch called "branch_name".
+						<br>
+						Example (continuing from above): <code>$ git checkout myNewFeature</code> puts you into the <code>myNewFeature</code> branch.  Now all changes you make won't affect any other branch in your repo until you merge the changes into them.</dd>
+						<dt><code>git pull [remote_name] [branch_name]</code></dt>
+						<dd>Fetches the branch called "branch_name" from the remote called ["remote_name"] into your local repo, and merges the changes into your Working Directory into whatever branch you have checked out at the moment.<br>
+						Example (continuing from above): <code>$ git pull origin main</code> pulls the <code>main</code> branch of the <code>origin</code> remote into your <code>myNewFeature</code> branch.</dd>
+						<dt><code>git add .</code></dt>
+						<dd>Get's all your changes ready for commiting by adding them from your Working Directory into your Staging Area.</dd>
+						<dt><code>git commit -m "Commit notes go here"</code></dt>
+						<dd>Makes a snapshop in time; commits your changes to your local copy of the repo.  It's ready to be pushed.  Note:  You can add the <code>-a</code> option to skip the previous step if there are no <em>new</em> files added.<br>
+						Example: <code>$ git commit -a -m "Fixed a type identified in Issue #34"</code><dd>
+						<dt><code>git push [remote_name] [branch_name]</code></dt>
+						<dd>Copies your latest commits to the branch called "branch_name" on the remote called "remote_name".  If <code>[branch_name]</code> doesn't exist on <code>[remote_name]</code>, then one will be created.<br>
+						Example (continuing from above): <code>$ git push origin myNewFeature</code> copies your changes in your <code>myNewFeature</code> branch to your repo on GitHub.</dd>
+					</dl>
+				</section>
+				<section>
+					<h1>In Conclusion</h1>
+					<ul>
+						<li>Git is a powerful system to allow multiple people to contribute to the same project, whether they'are part of the project group or not.</p>
+						<li>Git is daunting and overwhelming at first.  But once you learn it, you'll wonder how you ever lived without it.</li>
+						<li>If you get into trouble, check out <a href="https://ohshitgit.com/" target="_blank" rel="noreferrer noopener">Oh Shit, Git!?!</a>.</li>
+					</ul>
 				</section>
 			</div>
 		</div>
