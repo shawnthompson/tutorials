@@ -77,11 +77,14 @@
 						<h2>What This Assumes</h2>
 						<ul>
 							<li>Not very much</li>
+							<li>You're really starting out with Git.  This is my no means an in-depth tutorial.</li>
 							<li>You have a computer with access to some kind of command line that supports Git.  Built-in in Mac OS X and Linux.  Downloads are available on <a href="https://git-scm.com/downloads" target="_blank" rel="noopener noreferrer">SCM's Git Download page</a>.</li>
 							<li>There are GUI (non-command-line) Git interfaces, but I'll stick with the command line because it will be the same system to system, version to version.  And you can copy/paste commands.  You can't do that with graphical interactions.</li>
-							<li>You're really starting out with Git.  This is my no means an in-depth tutorial.</li>
+							<li>That you know that a Repo is short for Repository.</li>
+							<li>That you know a Repo is a set of files that are tracked by the versioning system.</li>
 						</ul>
 					</section>
+					<!--
 					<section>
 						<h2>What You'll Need</h2>
 						<ul>
@@ -91,6 +94,7 @@
 							<li>You'll need to know that "repo" is short for "repository"</li>
 						</ul>
 					</section>
+					-->
 				</section>
 				<section>
 					<h1>Git vs GitHub</h1>
@@ -114,7 +118,7 @@
 					<section>
 						<h2>Old-School Repository Systems</h2>
 						<div class="imageHolder">
-							<a href="old-school.png" target="_blank" title="Click to open in a new window"><img src="old-school.png" alt="A diagram showing the decentralized nature of old-school repository systems particularely how each instance knew if it was a copy or the main instance."></a>
+							<a href="images/old-school.png" target="_blank" title="Click to open in a new window"><img src="images/old-school.png" alt="A diagram showing the decentralized nature of old-school repository systems particularely how each instance knew if it was a copy or the main instance."></a>
 						</div>
 					</section>
 				</section>
@@ -131,7 +135,7 @@
 					<section>
 						<h2>Git</h2>
 						<div class="imageHolder">
-							<a href="decentralized.svg" target="_blank" title="Click to open in a new window"><img src="decentralized.svg" alt="A diagram showing the decentralized nature of old-school repository systems particularely how each instance knew if it was a copy or the main instance."></a>
+							<a href="images/decentralized.svg" target="_blank" title="Click to open in a new window"><img src="images/decentralized.svg" alt="A diagram showing the decentralized nature of old-school repository systems particularely how each instance knew if it was a copy or the main instance."></a>
 						</div>
 					</section>
 				</section>
@@ -150,8 +154,10 @@
 					<section>
 						<h2>Branching</h2>
 						<ul>
+							<li>A Branch is an independent line of development.</li>
+							<li>A Branch is a series of commits.</li>
 							<li>Branching is done <em>within</em> an instance of a repo.</li>
-							<li>Everyone with access to <em>that</em> repo instance can see all the branches.</li>
+							<li>Everyone with access to <em>that</em> repo instance can see all its branches.</li>
 							<li>Branching creates a copy of all the tracked files at the time of branching.</li>
 							<li>As you edit files in the new branch, the files in the original branch remain unchanged from the time you created the new branch.</li>
 							<li>Anyone with access to that instance of that repo can create new branch from the original (without your changes) or your new branch (with your changes up the last last commit on your branch); or edit the files in the original branch.</li>
@@ -161,7 +167,7 @@
 						<h3>Branching</h3>
 						<p>A repo starts out with a main branch: a set of files with a history of changes (ie: commits).</p>
 						<div class="imageHolder">
-							<a href="org-x-repo-a-1.svg" target="_blank" title="Click to open in a new window"><img src="org-x-repo-a-1.svg" alt="A main branch with a series of commits"></a>
+							<a href="images/org-x-repo-a-1.svg" target="_blank" title="Click to open in a new window"><img src="images/org-x-repo-a-1.svg" alt="A main branch with a series of commits"></a>
 						</div>
 					</section>
 					<section>
@@ -172,7 +178,7 @@
 							<li><code>$ git checkout -b branchName</code><br>or<br><code>$ git branch new_branch_name</code></li>
 						</ul>
 						<div class="imageHolder">
-							<a href="org-x-repo-a-2.svg" target="_blank" title="Click to open in a new window"><img src="org-x-repo-a-2.svg" alt="A new branch is created to fix a bug such as a typo."></a>
+							<a href="images/org-x-repo-a-2.svg" target="_blank" title="Click to open in a new window"><img src="images/org-x-repo-a-2.svg" alt="A new branch is created to fix a bug such as a typo."></a>
 						</div>
 					</section>
 					<section>
@@ -184,7 +190,7 @@
 							<li><code>$ git checkout main</code><br><em>then</em><br><code>$ git branch other_new_branch_name</code></li>
 						</ul>
 						<div class="imageHolder">
-							<a href="org-x-repo-a-3.svg" target="_blank" title="Click to open in a new window"><img src="org-x-repo-a-3.svg" alt="Another new branch is created from main to fix another typo."></a>
+							<a href="images/org-x-repo-a-3.svg" target="_blank" title="Click to open in a new window"><img src="images/org-x-repo-a-3.svg" alt="Another new branch is created from main to fix another typo."></a>
 						</div>
 					</section>
 				</section>
@@ -199,16 +205,19 @@
 							<li>Only use once on each computer.  Once you've cloned, the repo is there.  You have it.  From then on, to get the latest code, use <code>git pull</code> or <code>git rebase</code>.</li>
 							<li><code>$ git clone [git address]</code></li>
 						</ul>
+						<aside class="notes">
+							<p>Let's see what happens when Jane clones Repo A</p>
+						</aside>
 					</section>
 					<section>
 						<h3>Cloning</h3>
 						<div class="imageHolder">
-							<a href="Jane-cloning.svg" target="_blank" title="Click to open in a new window"><img src="Jane-cloning.svg" alt="Cloning copies a repo from its source, ex GitHub, to your computer."></a>
+							<a href="images/Jane-cloning.svg" target="_blank" title="Click to open in a new window"><img src="images/Jane-cloning.svg" alt="Cloning copies a repo from its source, ex GitHub, to your computer."></a>
 						</div>
 					</section>
 					<section>
 						<div class="imageHolder">
-							<a href="Jane-cloned.svg" target="_blank" title="Click to open in a new window"><img src="Jane-cloned.svg" alt="Cloning copies the main repo from its source, ex GitHub, to your computer."></a>
+							<a href="images/Jane-cloned.svg" target="_blank" title="Click to open in a new window"><img src="images/Jane-cloned.svg" alt="Cloning copies the main repo from its source, ex GitHub, to your computer."></a>
 						</div>
 					</section>
 
@@ -219,17 +228,24 @@
 						<ul>
 							<li>Forking a repo creates an instance of a repo (branches, commit history, etc.) on your own GitHub account.</li>
 							<li>When forking, your forked repo automagically sets the original repo as "Upstream" allowing you to easily get new changes.</li>
-							<li>Your fork can have different permissions and settings than the original.</li>
 						</ul>
+						<a href="images/fork_button.png" target="_blank" title="Click to open in a new window"><img src="images/fork_button.png" alt="Fork button on GitHub right after the the Watch/Unwatch, and Star buttons near the top of the page below the Github banner at the very top."></a>
+						<aside class="notes">
+							<p>Let's see what happens when Joe forks Repo A</p>
+							<p style="color: #AA0000;"><strong>Don't</strong> explain when to fork.  That happens next.</p>
+						</aside>
+					</section>
+					<section>
+						<h2>Forking</h2>
 						<div class="imageHolder">
-							<a href="forking.svg" target="_blank" title="Click to open in a new window"><img src="forking.svg" alt="Forking copies a repo to your account within a system such as GitHub."></a>
+							<a href="images/forking.svg" target="_blank" title="Click to open in a new window"><img src="images/forking.svg" alt="Forking copies a repo to your account within a system such as GitHub."></a>
 						</div>
 
 					</section>
 					<section>
 						<h2>Forking</h2>
 						<div class="imageHolder">
-							<a href="post-forking.svg" target="_blank" title="Click to open in a new window"><img src="post-forking.svg" alt="Forking copies branches and commit history."></a>
+							<a href="images/post-forking.svg" target="_blank" title="Click to open in a new window"><img src="images/post-forking.svg" alt="Forking copies branches and commit history."></a>
 						</div>
 					</section>
 				</section>
@@ -250,6 +266,9 @@
 							<dd>Also can be used when you want to do some experimental things knowing you'll problably throw your copy away when you're done.</dd>
 						</dl>
 					</section>
+						<aside class="notes">
+							<p>Demo forking, cloning and branching.</p>
+						</aside>
 				</section>
 				<section>
 					<h1>Workflows</h1>
@@ -267,69 +286,78 @@
 					<section>
 						<h2>Workflow With Write Access To Repo</h2>
 						<ul>
-							<li>For our example, Jane Schmoe is part of the organization.  She doesn't need to <code>clone</code>.  But she needs to <code>pull</code> before she gets started.</li>
+							<li>For our example, Jane Schmoe is part of the organization.  She doesn't need to <code>clone</code> (because that was already done before when she first joined the org).</li>
+							<li>But she needs to <code>pull</code> before she gets started.</li>
 							<li>Pulling gets the latest commits from <em>elsehwere</em> and merges them <em>here</em>.</li>
 							<li>In this case, Jane pulls from the <code>origin</code> so she has everything on her computer.</li>
 						</ul>
 						<div class="imageHolder">
-							<a href="org-local-workflow-1.svg" target="_blank" title="Click to open in a new window"><img src="org-local-workflow-1.svg" alt="Pulling gets the current state of the branch from which you pull from the remote from which you pull."></a>
+							<a href="images/org-local-workflow-1.svg" target="_blank" title="Click to open in a new window"><img src="images/org-local-workflow-1.svg" alt="Pulling gets the current state of the branch from which you pull from the remote from which you pull."></a>
 						</div>
+						<aside class="notes">
+							<p style="color:#AA0000;"><strong>Do not</strong> explain the anatomy of your local repo.  That comes in a few slides.</p>
+						</aside>
 					</section>
 					<section>
 						<h3>Starting Work</h3>
 						<ul>
-							<li>After pulling, but before starting to work, create a new branch.  It's dangerous to work on the main branch.</li>
+							<li>After pulling, but before starting to work, she creates a new branch.  It's dangerous to work on the main branch.</li>
 						</ul>
 						<div class="imageHolder">
-							<a href="org-local-workflow-2.svg" target="_blank" title="Click to open in a new window"><img src="org-local-workflow-2.svg" alt="Pulling gets the current state of the branch from which you pull from the remote from which you pull."></a>
+							<a href="images/org-local-workflow-2.svg" target="_blank" title="Click to open in a new window"><img src="images/org-local-workflow-2.svg" alt="Pulling gets the current state of the branch from which you pull from the remote from which you pull."></a>
 						</div>
 					</section>
 					<section>
 						<h3>Working</h3>
 						<div class="imageHolder">
-							<a href="org-local-workflow-3.svg" target="_blank" title="Click to open in a new window"><img src="org-local-workflow-3.svg" alt="Pulling gets the current state of the branch from which you pull from the remote from which you pull."></a>
+							<a href="images/org-local-workflow-3.svg" target="_blank" title="Click to open in a new window"><img src="images/org-local-workflow-3.svg" alt="Pulling gets the current state of the branch from which you pull from the remote from which you pull."></a>
 						</div>
 					</section>
 					<section>
 						<h3>Your Local Repo</h3>
 						<p>At this point it's worth mentioning how your local repo works.</p>
 						<ul>
+							<li>Your local copy has three parts:  The <strong>Index</strong> or <strong>Working Directory</strong>, <strong>Staging</strong>, and the <strong>repo</strong> itself.</li>
 							<li>When you're editing files locally, simply saving them has no effect on the repo itself.</li>
-							<li>When you add a new file into your folder, it still isn't part of the repo.</li>
+							<li>When you add a new file into your folder, it still isn't part of the repo.  It's not being tracked.</li>
 							<li>All your edits, addtions, and removals are all part of the "Working Directory" or the "Index".</li>
 							<li>In order to get Git to start tracking new files and updated files you need to move them to "Staging".</li>
 							<li>Moving to staging can be done by <code>$ git add filename</code>, or to add all at once: <code>$ git add .</code> (inlcuding the ".").</li>
-							<li><strong><em>Then</em></strong>, once staged, files can be committed to the repo.</li>
+							<li><strong><em>Then</em></strong>, once staged, files can be <em>committed</em> to the repo.</li>
 							<li>This can be done with: <code>$ git commit -m "Some notes about the commit here"</code>.</li>
-							<li>Once changes have been committed, a new commit (ie: a snapshot in time) is created. this can now be merged into another local branch, or pushed to a remote.</li>
+							<li>Once changes have been committed, a new commit (ie: a snapshot in time) is created.</li>
+							<li>This commit can now be merged into another local branch, or pushed to a remote.</li>
 						</ul>
+						<aside class="notes">
+							<p>Now, back to Jane.  She's added her feature and is ready to be staged and committed.</p>
+						</aside>
 					</section>
 					<section>
 						<h3>Add Changes to Staging</h3>
 						<p><code>$ git add .</code></p>
 						<div class="imageHolder">
-							<a href="org-local-workflow-4.svg" target="_blank" title="Click to open in a new window"><img src="org-local-workflow-4.svg" alt="Add changes from the Index or Working Directory to Staging."></a>
+							<a href="images/org-local-workflow-4.svg" target="_blank" title="Click to open in a new window"><img src="images/org-local-workflow-4.svg" alt="Add changes from the Index or Working Directory to Staging."></a>
 						</div>
 					</section>
 					<section>
 						<h3>Commit Changes to Repo</h3>
 						<p><code>$ git commit -m "Added a feature"</code></p>
 						<div class="imageHolder">
-							<a href="org-local-workflow-5.svg" target="_blank" title="Click to open in a new window"><img src="org-local-workflow-5.svg" alt="Commiting changes moves them from Staging to the Repo, and creates a snapshot in time."></a>
+							<a href="images/org-local-workflow-5.svg" target="_blank" title="Click to open in a new window"><img src="images/org-local-workflow-5.svg" alt="Commiting changes moves them from Staging to the Repo, and creates a snapshot in time."></a>
 						</div>
 					</section>
 					<section>
 						<h3>Push Changes to Origin</h3>
 						<p><code>$ git push origin myNewFeature</code></p>
 						<div class="imageHolder">
-							<a href="org-local-workflow-6.svg" target="_blank" title="Click to open in a new window"><img src="org-local-workflow-6.svg" alt="Pushing the changes moves the commits to a remote."></a>
+							<a href="images/org-local-workflow-6.svg" target="_blank" title="Click to open in a new window"><img src="images/org-local-workflow-6.svg" alt="Pushing the changes moves the commits to a remote."></a>
 						</div>
 					</section>
 					<section>
 						<h3>Pushed Changes to Origin</h3>
 						<p>Now GitHub has Jane's <code>myNewFeature</code> branch.</p>
 						<div class="imageHolder">
-							<a href="org-local-workflow-7.svg" target="_blank" title="Click to open in a new window"><img src="org-local-workflow-7.svg" alt="GitHub has a new branch which Jane just pushed"></a>
+							<a href="images/org-local-workflow-7.svg" target="_blank" title="Click to open in a new window"><img src="images/org-local-workflow-7.svg" alt="GitHub has a new branch which Jane just pushed"></a>
 						</div>
 					</section>
 					<section>
@@ -337,7 +365,7 @@
 						<p>Create a Pull Request on GitHub and delete <code>myNewFeature</code> branch.</p>
 						<p>Note that <code>myNewFeature</code> branch still exists on Jane's local machine until she deletes it. (<code>$ git branch -D myNewBranch</code>)</p>
 						<div class="imageHolder">
-							<a href="org-local-workflow-8.svg" target="_blank" title="Click to open in a new window"><img src="org-local-workflow-8.svg" alt="Jane's new feature has been added to main, and the myNewBranch is deleted."></a>
+							<a href="images/org-local-workflow-8.svg" target="_blank" title="Click to open in a new window"><img src="images/org-local-workflow-8.svg" alt="Jane's new feature has been added to main, and the myNewBranch is deleted."></a>
 						</div>
 					</section>
 				</section>
@@ -349,62 +377,77 @@
 							<li>To get started, he'll need to <code>fork</code> to create his own copy of the repo on GitHub.</li>
 						</ul>
 						<div class="imageHolder">
-							<a href="forked.svg" target="_blank" title="Click to open in a new window"><img src="forked.svg" alt="Repo-A with branches on Org X on GitHub, and Joe Schmoe's fork of the same thing on his GitHub account"></a>
+							<a href="images/forked.svg" target="_blank" title="Click to open in a new window"><img src="images/forked.svg" alt="Repo-A with branches on Org X on GitHub, and Joe Schmoe's fork of the same thing on his GitHub account"></a>
 						</div>
 					</section>
 					<section>
 						<h2>Workflow With A Forked Repo</h2>
 							<p>Then he'll <code>clone</code> to get a copy of the repo on his own computer.</p>
 						<div class="imageHolder">
-							<a href="cloned.svg" target="_blank" title="Click to open in a new window"><img src="cloned.svg" alt="Repo-A with branches on Org X on GitHub, Joe Schmoe's fork of the same thing on his GitHub account, and a copy on Joe's local computer"></a>
+							<a href="images/cloned.svg" target="_blank" title="Click to open in a new window"><img src="images/cloned.svg" alt="Repo-A with branches on Org X on GitHub, Joe Schmoe's fork of the same thing on his GitHub account, and a copy on Joe's local computer"></a>
 						</div>
+						<aside class="notes">
+							<p>The next few steps are the same as for someone wihin the org.  They make their own branch and make changes, and commit.</p>
+						</aside>
 					</section>
 					<section>
 						<h2>Local Repo With Two Remotes</h2>
 							<p>Now Joe pulls from the <code>upstream</code> remote (organization's repo) and pushes to the <code>origin</code> remote (Joe's copy on his GitHub account).</p>
 						<div class="imageHolder">
-							<a href="remotes-2.svg" target="_blank" title="Click to open in a new window"><img src="remotes-2.svg" alt="Joe Schmoe's local repo with two remotes: origin on Joe's account on GitHub, and upstream, the original repo.  He'll pull from upstream, and push to origin."></a>
+							<a href="images/remotes-2.svg" target="_blank" title="Click to open in a new window"><img src="images/remotes-2.svg" alt="Joe Schmoe's local repo with two remotes: origin on Joe's account on GitHub, and upstream, the original repo.  He'll pull from upstream, and push to origin."></a>
 						</div>
 					</section>
 					<section>
 						<h2>Basic Workflow With A Forked Repo</h2>
 						<p>After pushing changes, Joe submits a Pull Request (PR) to have his changes added to the main repo.</p>
 						<div class="imageHolder">
-							<a href="project-workflow.svg" target="_blank" title="Click to open in a new window"><img src="project-workflow.svg" alt="Joe Schmoe's local repo with two remotes: origin on Joe's account on GitHub, and upstream, the original repo.  He'll pull from upstream, and push to origin."></a>
+							<a href="images/project-workflow.svg" target="_blank" title="Click to open in a new window"><img src="images/project-workflow.svg" alt="Joe Schmoe's local repo with two remotes: origin on Joe's account on GitHub, and upstream, the original repo.  He'll pull from upstream, and push to origin."></a>
 						</div>
 					</section>
 					<section>
 						<h2>Full Workflow With A Forked Branch</h2>
 						<div class="imageHolder" style="height: 50%;">
-							<a href="local-workflow-8.svg" target="_blank" title="Click to open in a new window"><img src="local-workflow-8.svg" alt="Joe Schmoe's local repo with two remotes: origin on Joe's account on GitHub, and upstream, the original repo.  He'll pull from upstream, and push to origin."></a>
+							<a href="images/local-workflow-8.svg" target="_blank" title="Click to open in a new window"><img src="images/local-workflow-8.svg" alt="Joe Schmoe's local repo with two remotes: origin on Joe's account on GitHub, and upstream, the original repo.  He'll pull from upstream, and push to origin."></a>
 						</div>
 					</section>
 				</section>
 				<section>
-					<h1>Useful git Commands</h1>
-					<dl>
-						<dt><code>git status</code></dt>
-						<dd>Tells you what branch you're on, what files are in your working directory, but not staging; staging but not the repo.  Sometimes gives you hints as to what to do next.</dd>
-						<dt><code>git branch [branch_name]</code></dt>
-						<dd>Creates a branch called "branch_name" in your local working directory of your local repo.
-						<br>
-						Example: <code>$ git branch myNewFeature</code></dd>
-						<dt><code>git checkout [branch_name]</code></dt>
-						<dd>Sets your current working directory to be in the branch called "branch_name".
-						<br>
-						Example (continuing from above): <code>$ git checkout myNewFeature</code> puts you into the <code>myNewFeature</code> branch.  Now all changes you make won't affect any other branch in your repo until you merge the changes into them.</dd>
-						<dt><code>git pull [remote_name] [branch_name]</code></dt>
-						<dd>Fetches the branch called "branch_name" from the remote called ["remote_name"] into your local repo, and merges the changes into your Working Directory into whatever branch you have checked out at the moment.<br>
-						Example (continuing from above): <code>$ git pull origin main</code> pulls the <code>main</code> branch of the <code>origin</code> remote into your <code>myNewFeature</code> branch.</dd>
-						<dt><code>git add .</code></dt>
-						<dd>Get's all your changes ready for commiting by adding them from your Working Directory into your Staging Area.</dd>
-						<dt><code>git commit -m "Commit notes go here"</code></dt>
-						<dd>Makes a snapshop in time; commits your changes to your local copy of the repo.  It's ready to be pushed.  Note:  You can add the <code>-a</code> option to skip the previous step if there are no <em>new</em> files added.<br>
-						Example: <code>$ git commit -a -m "Fixed a type identified in Issue #34"</code><dd>
-						<dt><code>git push [remote_name] [branch_name]</code></dt>
-						<dd>Copies your latest commits to the branch called "branch_name" on the remote called "remote_name".  If <code>[branch_name]</code> doesn't exist on <code>[remote_name]</code>, then one will be created.<br>
-						Example (continuing from above): <code>$ git push origin myNewFeature</code> copies your changes in your <code>myNewFeature</code> branch to your repo on GitHub.</dd>
-					</dl>
+					<section>
+						<h1>Useful git Commands</h1>
+						<dl>
+							<dt><code>git status</code></dt>
+							<dd>Tells you what branch you're on, what files are in your working directory, but not staging; staging but not the repo.  Sometimes gives you hints as to what to do next.</dd>
+							<dt><code>git branch [branch_name]</code></dt>
+							<dd>Creates a branch called "branch_name" in your local working directory of your local repo.
+							<br>
+							Example: <code>$ git branch myNewFeature</code></dd>
+							<dt><code>git checkout [branch_name]</code></dt>
+							<dd>Sets your current working directory to be in the branch called "branch_name".
+							<br>
+							Example (continuing from above): <code>$ git checkout myNewFeature</code> puts you into the <code>myNewFeature</code> branch.  Now all changes you make won't affect any other branch in your repo until you merge the changes into them.</dd>
+						</dl>
+					</section>
+					<section>
+						<h2>Useful git Commands (cont.)</h2>
+						<dl>
+							<dt><code>git pull [remote_name] [branch_name]</code></dt>
+							<dd>Fetches the branch called "branch_name" from the remote called ["remote_name"] into your local repo, and merges the changes into your Working Directory into whatever branch you have checked out at the moment.<br>
+							Example (continuing from above): <code>$ git pull origin main</code> pulls the <code>main</code> branch of the <code>origin</code> remote into your <code>myNewFeature</code> branch.</dd>
+							<dt><code>git add .</code></dt>
+							<dd>Get's all your changes ready for commiting by adding them from your Working Directory into your Staging Area.</dd>
+						</dl>
+					</section>
+					<section>
+						<h2>Useful git Commands (cont.)</h2>
+						<dl>
+							<dt><code>git commit -m "Commit notes go here"</code></dt>
+							<dd>Makes a snapshop in time; commits your changes to your local copy of the repo.  It's ready to be pushed.  Note:  You can add the <code>-a</code> option to skip the previous step if there are no <em>new</em> files added.<br>
+							Example: <code>$ git commit -a -m "Fixed a type identified in Issue #34"</code><dd>
+							<dt><code>git push [remote_name] [branch_name]</code></dt>
+							<dd>Copies your latest commits to the branch called "branch_name" on the remote called "remote_name".  If <code>[branch_name]</code> doesn't exist on <code>[remote_name]</code>, then one will be created.<br>
+							Example (continuing from above): <code>$ git push origin myNewFeature</code> copies your changes in your <code>myNewFeature</code> branch to your repo on GitHub.</dd>
+						</dl>
+					</section>
 				</section>
 				<section>
 					<h1>In Conclusion</h1>
